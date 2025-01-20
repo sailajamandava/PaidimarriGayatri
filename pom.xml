@@ -31,6 +31,7 @@
 			<scope>runtime</scope>
 			<optional>true</optional>
 		</dependency>
+		<!--Demo on Git Hub webhook-->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-mail</artifactId>
